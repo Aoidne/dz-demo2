@@ -1,0 +1,5 @@
+g:\DZ\ConsoleApp2\bin\Release\net8.0\publish\ConsoleApp2.exe
+g:\DZ\ConsoleApp2\bin\Release\net8.0\publish\ConsoleApp2.dll
+g:\DZ\ConsoleApp2\bin\Release\net8.0\publish\ConsoleApp2.deps.json
+g:\DZ\ConsoleApp2\bin\Release\net8.0\publish\ConsoleApp2.runtimeconfig.json
+g:\DZ\ConsoleApp2\bin\Release\net8.0\publish\ConsoleApp2.pdb

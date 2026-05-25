@@ -1,0 +1,15 @@
+g:\DZ\ConsoleApp2\bin\Release\net8.0\ConsoleApp2.exe
+g:\DZ\ConsoleApp2\bin\Release\net8.0\ConsoleApp2.deps.json
+g:\DZ\ConsoleApp2\bin\Release\net8.0\ConsoleApp2.runtimeconfig.json
+g:\DZ\ConsoleApp2\bin\Release\net8.0\ConsoleApp2.dll
+g:\DZ\ConsoleApp2\bin\Release\net8.0\ConsoleApp2.pdb
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.AssemblyInfo.cs
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.sourcelink.json
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.dll
+g:\DZ\ConsoleApp2\obj\Release\net8.0\refint\ConsoleApp2.dll
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.pdb
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ConsoleApp2.genruntimeconfig.cache
+g:\DZ\ConsoleApp2\obj\Release\net8.0\ref\ConsoleApp2.dll
